@@ -1,0 +1,42 @@
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Philosopher" /> 
+/*Philosopher*/
+h1 {
+	font-family: Philosopher;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+/*cagliostro*/
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Cagliostro" /> 
+h1 {
+	font-family: Cagliostro;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+/*Quicksand*/
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Quicksand" /> 
+h1 {
+	font-family: Quicksand;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+/*Snippet*/
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Snippet" />
+h1 {
+	font-family: Snippet;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
