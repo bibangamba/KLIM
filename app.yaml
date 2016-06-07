@@ -1,0 +1,32 @@
+application: klim
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /css
+  static_dir: css
+
+- url: /images
+  static_dir: images
+
+- url: /js
+  static_dir: js
+
+- url: /fonts
+  static_dir: fonts
+
+- url: /about-us
+  script: about-us.php
+- url: /advocates
+  script: advocates.php
+- url: /clients
+  script: clients.php
+- url: /contact-us
+  script: contact-us.php
+- url: /services
+  script: services.php
+
+- url: /.*
+  script: index.php
