@@ -27,6 +27,8 @@ handlers:
   script: contact-us.php
 - url: /services
   script: services.php
+- url: /googlea9a80609f1800154.html
+  script: googlea9a80609f1800154.html 
 
 - url: /.*
   script: index.php
